@@ -1,0 +1,2 @@
+let heroi="";
+let selecao="";
